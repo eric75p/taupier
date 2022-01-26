@@ -19,7 +19,7 @@ const { goto }=require("$app/navigation");
 	<h1>Artisan taupier écologique</h1>
 	<br />
 	<img
-		src="/static/img/taupe.png"
+		src="/img/taupe.png"
 		alt="Fabrique de pièges à taupes"
 		class="img-fluid max-width: 50% height:auto"
 	/><br /><br />
@@ -96,7 +96,7 @@ const { goto }=require("$app/navigation");
 		d'intervenir rapidement afin d'éviter qu'elle ne crée davantage de
 		taupinières et ne saccage votre terrain.
 		<img
-			src="/static/img/taupinieres.jpg"
+			src="/img/taupinieres.jpg"
 			alt="Taupinières"
 			class="img-fluid max-width: 50% height:auto p-1"
 		/>

@@ -318,23 +318,23 @@
 		Partenariat
 
 		<img
-			src="/static/img/tondeuse.png"
+			src="/img/tondeuse.png"
 			alt="Services à la personne"
 			style="max-width: 12%"
 		/>
 		<img
-			src="/static/img/tronconneuse.png"
+			src="/img/tronconneuse.png"
 			alt="Services à la personne"
 			style="max-width: 12%"
 		/>
 
 		<img
-			src="/static/img/servpersonnetr.png"
+			src="/img/servpersonnetr.png"
 			alt="Services à la personne"
 			style="max-width: 12%"
 		/>
 		<img
-			src="/static/img/immobilier.png"
+			src="/img/immobilier.png"
 			alt="Services à la personne"
 			style="max-width: 10%"
 		/>
@@ -370,7 +370,7 @@
 				Entreprises services à la personne
 			</h3>
 			<img
-				src="/static/img/servpersonne.jpg"
+				src="/img/servpersonne.jpg"
 				alt="Services à la personne"
 				class="img-fluid max-width: 10% height:auto"
 			/>
@@ -437,13 +437,13 @@
 	</p>
 
 	<img
-		src="/static/img/taupinieres2.jpg"
+		src="/img/taupinieres2.jpg"
 		alt="Taupinieres"
 		class="img-fluid max-width: 40% height:auto"
 		/>
 		<br />
 	<img
-		src="/static/img/taupinieres3.jpg"
+		src="/img/taupinieres3.jpg"
 		alt="Taupinieres"
 		class="img-fluid max-width: 40% height:auto"
 		/>

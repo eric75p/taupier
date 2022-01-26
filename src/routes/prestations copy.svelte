@@ -280,7 +280,7 @@
 
 	<h3>Entreprises services à la personne</h3>
 	<img
-		src="/static/img/servpersonne.jpg"
+		src="/img/servpersonne.jpg"
 		alt="Services à la personne"
 		class="img-fluid max-width: 10% height:auto"
 	/>
@@ -297,7 +297,7 @@
 	</p>
 	<div class="d-flex justify-content-center">
 		<img
-			src="/static/img/servpersonnetr.png"
+			src="/img/servpersonnetr.png"
 			alt="Services à la personne"
 			style="max-width: 25%"
 		/>

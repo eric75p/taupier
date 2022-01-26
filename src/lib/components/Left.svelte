@@ -8,7 +8,7 @@
     <span style="font-weight: bold">
       <a href="tel:06-16-28-65-58">
         <img
-        src="/static/img/phone.png"
+        src="/img/phone.png"
         alt="Téléphone"
         style="max-width: 25px; height: auto;"
     />
@@ -25,7 +25,7 @@
 
   <p style="font-weight: bold;font-size: 16px">Occitanie&nbsp;
   <img
-  src="/static/img/occitanie.png"
+  src="/img/occitanie.png"
   alt="Occitanie"
   style="max-width: 35px; height: auto;"
 /></p>

@@ -41,7 +41,7 @@
     <div class="bloc ms-3">
       <a href="#">
         <img
-          src="/static/img/facebook.svg"
+          src="/img/facebook.svg"
           alt="Logo Facebook"
           class="sociallogo"
         /></a
@@ -49,7 +49,7 @@
   
       <a href="#">
         <img
-          src="/static/img/youtube.svg"
+          src="/img/youtube.svg"
           alt="Logo YouTube"
           class="sociallogo"
         /></a

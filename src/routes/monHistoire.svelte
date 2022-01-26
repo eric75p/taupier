@@ -77,7 +77,7 @@
 
 	<div class="d-flex justify-content-center ">
 		<img
-			src="/static/img/taupier.jpg"
+			src="/img/taupier.jpg"
 			alt="taupier breton (1821)"
 			class="img-fluid max-width: 30% height:auto"
 		/>
