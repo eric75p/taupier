@@ -246,7 +246,7 @@
             <div id="geoportail">
                 <a href="https://www.google.fr/maps" target="_blank">
                     <img
-                        src="/static/img/googlemaps.png"
+                        src="/img/googlemaps.png"
                         alt="Logo geoportail"
                         style="width:8%"
                     /></a
@@ -325,7 +325,7 @@
             <div id="geoportail">
                 <a href="https://www.google.fr/maps" target="_blank">
                     <img
-                        src="/static/img/googlemaps.png"
+                        src="/img/googlemaps.png"
                         alt="Logo geoportail"
                         style="width:8%"
                     /></a
@@ -333,7 +333,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://www.geoportail.gouv.fr/carte" target="_blank">
                     <img
-                        src="/static/img/logo-geoportail.svg"
+                        src="/img/logo-geoportail.svg"
                         alt="Logo geoportail"
                         style="width:25%"
                     /></a
@@ -379,7 +379,7 @@
             <span style="font-weight: bold">
                 <a href="tel:06-16-28-65-58">
                     <img
-                        src="/static/img/phone.png"
+                        src="/img/phone.png"
                         alt="Téléphone"
                         style="max-width: 25px; height: auto;"
                     />

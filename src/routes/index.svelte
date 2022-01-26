@@ -36,7 +36,7 @@ const { goto }=require("$app/navigation");
 	</p>
 	<p>
 		<img
-			src="/static/img/putanges.png"
+			src="/img/putanges.png"
 			alt="Fabrique de pièges à taupes"
 			class="img-fluid max-width: 50% height:auto"
 		/>

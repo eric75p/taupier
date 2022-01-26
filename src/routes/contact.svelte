@@ -25,7 +25,7 @@
 	<p />
 
 	<img
-	src="/static/img/carte.png"
+	src="/img/carte.png"
 	alt="Carte d'Occitanie"
 	class="img-fluid max-width: 50% height:auto p-3"
 />
