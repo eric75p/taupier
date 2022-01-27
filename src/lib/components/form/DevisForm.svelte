@@ -295,7 +295,7 @@
 
         <div class="m-2">
             Vous pouvez également m’envoyer des photos par SMS au<br />
-            <span style="font-weight: bold"> 06 16 28 65 58 </span> afin que je puisse
+            <span style="font-weight: bold"> 06 15 28 65 58 </span> afin que je puisse
             mieux évaluer l’étendue des désagréments causés par les taupes.
         </div>
 
@@ -367,13 +367,13 @@
         <p style="font-size: 16px">
             N'hésitez pas à m'appeler si besoin
             <span style="font-weight: bold">
-                <a href="tel:06-16-28-65-58">
+                <a href="tel:06-15-28-65-58">
                     <img
                         src="/img/phone.png"
                         alt="Téléphone"
                         style="max-width: 25px; height: auto;"
                     />
-                    06 16 28 65 58</a
+                    06 15 28 65 58</a
                 >
             </span>
         </p>

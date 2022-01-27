@@ -120,13 +120,13 @@
     <p style="font-size: 16px" class="d-flex justify-content-center">
         N'hésitez pas à m'appeler si besoin au &nbsp;
         <span style="font-weight: bold">
-            <a href="tel:06-16-28-65-58">
+            <a href="tel:06-15-28-65-58">
                 <img
                     src="/img/phone.png"
                     alt="Téléphone"
                     style="max-width: 25px; height: auto;"
                 />
-                06 16 28 65 58</a
+                06 15 28 65 58</a
             >
         </span>
     </p>
