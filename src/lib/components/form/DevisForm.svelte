@@ -155,7 +155,6 @@
             <InputTextGoogleIcon
                 label="Prénom :"
                 bind:value={values.prenom}
-                placeholder="Saisissez votre prénom..."
                 name="prenom"
                 icon="&#xe7fd;"
                 {errors}
@@ -164,7 +163,6 @@
             <InputTextGoogleIcon
                 label="Nom :"
                 bind:value={values.nom}
-                placeholder="Saisissez votre nom..."
                 name="nom"
                 icon="&#xe7fd;"
                 {errors}
@@ -202,7 +200,6 @@
             <InputTextIcon
                 label="Adresse :"
                 bind:value={values.adresse1}
-                placeholder="10 avenue Général..."
                 name="adresse1"
                 icon="&#127968;"
                 {errors}
@@ -211,26 +208,21 @@
             <InputTextIcon
                 label="Complément d'adresse (optionnel)"
                 bind:value={values.adresse2}
-                placeholder=""
                 name="adresse2"
                 icon="&#127968;"
                 {errors}
                 {validate}
             />
-            <InputNumber
+            <InputText
                 label="Code postal :"
                 bind:value={values.codePostal}
-                placeholder="Exemple : 81000"
                 name="codePostal"
-                min="0"
-                max="999999"
                 {errors}
                 {validate}
             />
             <InputText
                 label="Ville :"
                 bind:value={values.ville}
-                placeholder="Exemple : Albi"
                 name="ville"
                 {errors}
                 {validate}
@@ -238,7 +230,6 @@
             <InputGPS
                 label="Coordonnées GPS :"
                 bind:value={values.gps}
-                placeholder="43.928750320420264, 2.125813681558322"
                 name="gps"
                 {errors}
                 {validate}
@@ -365,9 +356,8 @@
             </div>
 
             <TextArea
-                label="Remarques :"
+                label="Remarques éventuelles :"
                 bind:value={values.remarques}
-                placeholder="Remarques éventuelles..."
                 name="remarques"
                 {errors}
                 {validate}

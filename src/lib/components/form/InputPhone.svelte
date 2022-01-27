@@ -7,7 +7,7 @@
 	export let name = "phone";
 	export let validate;
 	//
-	export let placeholder = "Votre numéro de téléphone...";
+	export let placeholder = "";
 	export let errors = undefined;
 </script>
 

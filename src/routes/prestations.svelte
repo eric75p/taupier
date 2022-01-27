@@ -2,10 +2,10 @@
 <script>
 	import { Accordion, AccordionItem } from "sveltestrap";
 	import { Button } from "sveltestrap";
-	import { goto } from '$app/navigation';
+	import { goto } from "$app/navigation";
 
 	function gotoDevis() {
-		goto("/devis")
+		goto("/devis");
 	}
 </script>
 
@@ -320,23 +320,23 @@
 		<img
 			src="/img/tondeuse.png"
 			alt="Services à la personne"
-			style="max-width: 12%"
+			style="max-width: 9%"
 		/>
 		<img
 			src="/img/tronconneuse.png"
 			alt="Services à la personne"
-			style="max-width: 12%"
+			style="max-width: 10%"
 		/>
 
 		<img
 			src="/img/servpersonnetr.png"
 			alt="Services à la personne"
-			style="max-width: 12%"
+			style="max-width: 10%"
 		/>
 		<img
 			src="/img/immobilier.png"
 			alt="Services à la personne"
-			style="max-width: 10%"
+			style="max-width: 8%"
 		/>
 	</h2>
 	<hr />
@@ -369,22 +369,29 @@
 			<h3 class="m-0" slot="header">
 				Entreprises services à la personne
 			</h3>
-			<img
-				src="/img/servpersonne.jpg"
-				alt="Services à la personne"
-				class="img-fluid max-width: 10% height:auto"
-			/>
+			<div class="d-flex justify-content-center m-1">
+				<img
+					src="/img/servpersonne.jpg"
+					alt="Services à la personne"
+					class="img-fluid height:auto"
+				/>
+			</div>
 			<p>
 				Si vous êtes employé d'une société de services à la personne et
 				que vous constatez des nuisances ou des dégâts causés par les
-				taupes chez vos clients, n'hésitez pas à informer votre
-				employeur afin qu'il fasse appel à Taupier du sud.
+				taupes chez vos clients, n'hésitez pas à faire appel à Taupier du sud.
 			</p>
+			<div class="d-flex justify-content-center">
+				<img
+					src="/img/servpersonnetr.png"
+					alt="Services à la personne"
+					class="img-fluid height:auto"
+				/>
+			</div>
 			<p>
 				Si vous êtes salarié dans le cadre des services à la personne et
 				que vous constatez des nuisances ou des dégats causés par les
-				taupes chez vos clients, n'hésitez pas à donner mes coordonnées
-				à votre client.
+				taupes chez votre employeur, n'hésitez pas à communiquer mes coordonnées.
 			</p>
 
 			<p>
@@ -411,7 +418,7 @@
 
 			<p>
 				Si vous gérez des résidences, des compelxes immobiliers ou de
-				simpls maisons avec jardins en location possèdant des espaces
+				simples maisons avec jardins en location possèdant des espaces
 				engazonnés, taupier du sud peut également intervenir si vous
 				constatez la présence de taupes.
 			</p>
@@ -440,17 +447,19 @@
 		src="/img/taupinieres2.jpg"
 		alt="Taupinieres"
 		class="img-fluid max-width: 40% height:auto"
-		/>
-		<br />
+	/>
+	<br />
 	<img
 		src="/img/taupinieres3.jpg"
 		alt="Taupinieres"
 		class="img-fluid max-width: 40% height:auto"
-		/>
-<hr />
-		<div class="d-flex justify-content-center ">
-			<Button color="warning" size="lg" on:click={gotoDevis}>Vers le formulaire de devis</Button>
-		  </div>
+	/>
+	<hr />
+	<div class="d-flex justify-content-center ">
+		<Button color="warning" size="lg" on:click={gotoDevis}
+			>Vers le formulaire de devis</Button
+		>
+	</div>
 </article>
 
 <!-- ---------------- style --------------- -->
@@ -488,7 +497,7 @@
 		color: rgb(0, 96, 0);
 	}
 
-/* 	a {
+	/* 	a {
 		text-decoration: none;
 		color: black;
 	}

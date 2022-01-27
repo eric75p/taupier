@@ -62,7 +62,7 @@
         <img
           src="img/taupeSecret.png"
           alt="Taupe albinos"
-          style="max-width: 500px"
+          class="img-fluid height:auto"
         />
         <br />
         <p class="p-2 text-center" style="font-style: italic">

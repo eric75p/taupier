@@ -1,23 +1,13 @@
 <!-- ---------------- script --------------- -->
-<script lang="ts">
-	import { Collapse, Button, Card } from "sveltestrap";
-  export let label = "Label du bouton"
-	let isOpen = false;
+<script>
 </script>
 
 <!-- ---------------- markup --------------- -->
-<Button color="success" on:click={() => (isOpen = !isOpen)} class="mb-3">
-  {label}
-</Button>
-<Collapse {isOpen}>
-  <Card body>
-    <slot></slot>
-  </Card>
-</Collapse>
+<div class="d-flex justify-content-center p-5">
+  <img src="img/underconstruction.png"
+  alt="Taupier du Sud" style="max-width: 250px" />
+</div>
 
 <!-- ---------------- style --------------- -->
 <style>
- 
-
-
 </style>

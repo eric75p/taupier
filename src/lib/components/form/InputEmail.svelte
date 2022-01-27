@@ -7,7 +7,7 @@
 	export let name = "email";
 	export let validate;
 	//
-	export let placeholder = "nom@compagnie.com";
+	export let placeholder = "";
 	export let errors = undefined;
 </script>
 

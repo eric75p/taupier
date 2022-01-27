@@ -73,7 +73,6 @@
         <InputTextGoogleIcon
             label="Prénom :"
             bind:value={values.prenom}
-            placeholder="Saisissez votre prénom..."
             name="prenom"
             icon="&#xe7fd;"
             {errors}
@@ -82,7 +81,6 @@
         <InputTextGoogleIcon
             label="Nom :"
             bind:value={values.nom}
-            placeholder="Saisissez votre nom..."
             name="nom"
             icon="&#xe7fd;"
             {errors}
@@ -105,7 +103,6 @@
         <InputTextGoogleIcon
             label="Objet :"
             bind:value={values._subject}
-            placeholder="Objet du message..."
             name="_subject"
             icon="&#xe88e;"
             {errors}
@@ -114,7 +111,6 @@
         <TextArea
             label="Message :"
             bind:value={values.message}
-            placeholder="Votre message..."
             name="message"
             {errors}
             {validate}

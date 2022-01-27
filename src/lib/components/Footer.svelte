@@ -7,6 +7,10 @@
   <div class="content">
     <p>
       © Copyright 2022 • Taupier du Sud <br />
+
+      Entreprise de service d'extermination des nuisibles APE:8129A 
+
+      <br />
       Powered by
       <a href="https://kit.svelte.dev" target="_blank">kit.svelte.dev</a>
       • Created by
