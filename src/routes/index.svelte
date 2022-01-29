@@ -61,8 +61,8 @@ const { goto }=require("$app/navigation");
 		permet de constater son efficacité en visualisant les prises.
 	</p>
 	<p class="text-center">
-		INTERVIENT SUR DEMANDE POUR LES MAIRIES <br />COLLECTIVITES -
-		ENTREPRISES - PARTICULIERS
+		INTERVIENT SUR DEMANDE POUR LES MAIRIES <br />COLLECTIVITÉS -
+		ENTREPRISES<br />AGRICULTEURS - PARTICULIERS
 	</p>
 	<p>
 		Intervention de piégeage sur toutes superficies : gazon, pelouse,
@@ -78,8 +78,8 @@ const { goto }=require("$app/navigation");
 	<p>Tarif évolutif suivant :</p>
 	<ul>
 		<li>Le forfait choisi ;</li>
-		<li>La distance pour se rendre sur la zone ;</li>
-		<li>La superficie à piéger, son environnement et sa configuration ;</li>
+		<li>La distance pour se rendre sur la zone&nbsp;;</li>
+		<li>La superficie à piéger, son environnement et sa configuration&nbsp;;</li>
 		<li>Prestation ponctuelle ou contrat annuel.</li>
 	</ul>
 

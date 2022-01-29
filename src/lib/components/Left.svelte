@@ -4,6 +4,13 @@
 
 <!-- ---------------- markup --------------- -->
 <sidebar id="left" class="p-4">
+  <img
+  src="/img/logo4.png"
+  alt="logo taupier du sud"
+  style="max-width: 150px; height: auto;"
+/>
+
+
   <p style="font-size: 16px">
     <span style="font-weight: bold">
       <a href="tel:06-15-28-65-58">
